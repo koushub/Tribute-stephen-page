@@ -31,13 +31,13 @@ div {
 }
 
 a:link {
-  color: darkolivegreen;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: yellowgreen;
+  color: blue;
   background-color: transparent;
   text-decoration: none;
 }
